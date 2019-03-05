@@ -58,8 +58,7 @@ Thus, let conventional crypto key management from the conventional PKI CAs conti
 3. IPSec for Linux
 4. IPSec for Mac
 5. IPsec for Android
-6. IPSec for IOS
-7. 小程序
+6. 小程序
 
 ## TODO
 
