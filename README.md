@@ -1,6 +1,6 @@
 # DaoliName System (DaoliNS)
 
-![DaoliName](/Users/wenxiang/git/daoliname/images/logoh.png)
+![DaoliName](images/logoh.png)
 
 ## Introduction to DaoliName System (DaoliNS)
 
