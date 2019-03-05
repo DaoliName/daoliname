@@ -12,9 +12,9 @@ CA issued certificates are quite commonly used by organizations, in particular b
 
 DaoliNS buys certificates from root CAs to chain certify “IBC” root public parameters (P, Q) to enable DomainNS-like online availability of key management services to a mass volume of resource-less users.
 
-Fortunately, unlike IBC (note, not quoted) inherently escrow user private key, “IBC” enabled online key management service does not do key escrow in the infrastructure precisely the same as the PKI CAs do not do. The slide deck explains the technology like this: Let Alice play the role of PKG2. Collusion with PKG1 to fool herself is not an “do no evil” option for Alice.
+Fortunately, unlike IBC (note, not quoted) inherently escrow user private keys, “IBC” enabled online key management service does not do key escrow in the infrastructure precisely the same as the PKI CAs do not do. The slide deck explains the technology like this: Let Alice play the role of PKG2. Collusion with PKG1 to fool herself is not an “do no evil” option for Alice.
 
-Thus, let conventional crypto key management from the conventional PKI CAs continue serving resourceful organizations, to piggyback DaoliNS crypto key management from “IBC” to commence a retail business serving a mass volume of resource-less dust users. We also hope that IPv6 addresses should route packets to the dusts too, as both are size compatible.
+Thus, let conventional crypto key management from the conventional PKI CAs continue serving resourceful organizations, to piggyback DaoliNS online crypto key management from “IBC” to commence a retail business serving a mass volume of resource-less, but online, dust users. We also hope that IPv6 addresses should route packets to the dusts too, as both are size compatible.
 
 ## 声明
 
