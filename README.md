@@ -4,7 +4,7 @@
 
 DaoliName System (DaoliNS) is an “IBC” technology enabled Open Key Management System. Note the quote “IBC”, [this document](DaoliName.pdf) explains the reason.
 
-Like usual IBCs, DaoliNS also needs a PKG (Private Key Generator) to publicize system public parameters: ( P, Q=[s]P ) where is the so-called “Master secret key” of PKG.
+Like usual IBCs, DaoliNS also needs a PKG (Private Key Generator) to publicize system public parameters: ( P, Q=[*s*]P ) where *s* is the so-called “Master secret key” of PKG.
 
 There are several hundreds of root Certificate Authorities (CAs) certificates out there. For many years they have entered into all OSes, browsers and mobile apps. So DaoliNS at the top buys several certificates from popular root CAs, and have DaoliNS PKG system parameters (P, Q) certificate chain signed, so that they can be accepted by our clients, after download from the DaoliNS website in javascript.
 
