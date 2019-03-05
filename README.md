@@ -1,5 +1,7 @@
 # DaoliName System (DaoliNS)
 
+![DaoliName](/Users/wenxiang/git/daoliname/images/logoh.png)
+
 ## Introduction to DaoliName System (DaoliNS)
 
 DaoliName System (DaoliNS) is an “IBC” technology enabled Open Key Management System. Note the quote “IBC”, [this document](DaoliName.pdf) explains the reason.
