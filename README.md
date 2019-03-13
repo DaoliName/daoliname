@@ -1,4 +1,4 @@
-# DaoliName System (DaoliNS)
+﻿# DaoliName System (DaoliNS)
 
 ![DaoliName](images/logoh.png)
 
@@ -63,6 +63,7 @@ Thus, let conventional crypto key management from the conventional PKI CAs conti
 ## TODO
 
 * Email System
+* Client Applications
 
 ## Useful Links
 
