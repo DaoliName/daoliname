@@ -51,11 +51,8 @@ Thus, let conventional crypto key management from the conventional PKI CAs conti
 ## 技术文档
 
 1. [DaoliName.pdf](DaoliName.pdf)
+
 2. [IBC_IoT.pdf](IBC_IoT.pdf)
-
-## TODO
-
-* Email System
 
 ## Useful Links
 
