@@ -50,12 +50,16 @@ Thus, let conventional crypto key management from the conventional PKI CAs conti
 
 ## 技术文档
 
-1. [DaoliName.pdf](DaoliName.pdf)
+1. [IBC_IoT.pdf](IBC_IoT.pdf)
 
-2. [IBC_IoT.pdf](IBC_IoT.pdf)
+2. [IBC_IoT_eng.pdf](IBC_IoT_eng.pdf)
+
+3. [DaoliName.pdf](DaoliName.pdf)
 
 ## Useful Links
 
-[DaoliName.pdf](DaoliName.pdf)
-
 [IBC_IoT.pdf](IBC_IoT.pdf)
+
+[IBC_IoT_eng.pdf](IBC_IoT_eng.pdf)
+
+[DaoliName.pdf](DaoliName.pdf)
