@@ -46,20 +46,12 @@ Thus, let conventional crypto key management from the conventional PKI CAs conti
 
 ## 技术文档
 
-1. [DaoliNameCoin.pdf](DaoliNameCoin.pdf)
+1. [DaoLiNameWP.pdf](DaoLiNameWP.pdf)
 
-2. [IBC_IoT.pdf](IBC_IoT.pdf)
+2. [DaoliNameCoin.pdf](DaoliNameCoin.pdf)
 
-3. [IBC_IoT_eng.pdf](IBC_IoT_eng.pdf)
+3. [IBC_IoT.pdf](IBC_IoT.pdf)
 
-4. [DaoliName.pdf](DaoliName.pdf)
+4. [IBC_IoT_eng.pdf](IBC_IoT_eng.pdf)
 
-## Useful Links
-
-[DaoliNameCoin.pdf](DaoliNameCoin.pdf)
-
-[IBC_IoT.pdf](IBC_IoT.pdf)
-
-[IBC_IoT_eng.pdf](IBC_IoT_eng.pdf)
-
-[DaoliName.pdf](DaoliName.pdf)
+5. [DaoliName.pdf](DaoliName.pdf)
