@@ -1,10 +1,10 @@
-# DaoliName System (DaoliNS)
+# DaoLiName System (DaoliNS)
 
-![DaoliName](images/logoh.png)
+![DaoLiName](images/logoh.png)
 
 ## Introduction to DaoliName System (DaoliNS)
 
-DaoliName System (DaoliNS) is an “IBC” technology enabled Open Key Management System. Note the quote “IBC”, [this document](DaoliName.pdf) explains the reason.
+DaoLiName System is an “IBC” technology enabled Open Key Management System. Note the quote “IBC”, [this document](DaoliName.pdf) explains the reason.
 
 There are several hundreds of root Certificate Authorities (CAs) certificates out there. For many years they have entered into all OSes, browsers and mobile apps. So DaoliNS at the top buys several certificates from popular root CAs, and have DaoliNS PKG system parameters (P, Q) certificate chain signed, so that they can be accepted by our clients, after download from the DaoliNS website in javascript.
 
@@ -16,11 +16,11 @@ Thus, let conventional crypto key management from the conventional PKI CAs conti
 
 ## 项目介绍
 
-道里名系统使用"基于身份"的公钥密码学技术，结合独创的"可压缩指纹(CF)"技术，允许使用任意Bit字符串做为公钥，如电子邮件地址，IP地址，手机号码等，有效的解决了一些基于传统PKI体系中复杂的密钥管理问题。
+道立名系统使用"身份即公钥"的密码学技术，结合独创的"可压缩指纹(CF)"技术，允许使用任意Bit字符串做为公钥，如电子邮件地址，IP地址，手机号码等，有效的解决了一些基于传统PKI体系中复杂的密钥管理问题。
 
-道里名在线密钥管理系统提供身份注册服务，为所有基于身份的系统和应用软件提供在线公钥查询服务，对于所有可当做身份的Bit字符串，都可以向道里名系统申请注册。
+道立名区块链为所有基于身份的系统和应用软件提供在线公钥查询服务，对于所有可当做身份的Bit字符串，都可以向道立名系统申请注册。
 
-道里名APP有如下功能：
+道立名APP有如下功能：
 
 * 身份注册(目前仅支持邮件，后续加入手机号,社交帐号等多种身份)
 
