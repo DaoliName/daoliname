@@ -48,10 +48,12 @@ Thus, let conventional crypto key management from the conventional PKI CAs conti
 
 1. [DaoLiNameWP.pdf](DaoLiNameWP.pdf)
 
-2. [DaoliNameCoin.pdf](DaoliNameCoin.pdf)
+2. [道立名中文.pdf](道立名中文.pdf)
 
-3. [IBC_IoT.pdf](IBC_IoT.pdf)
+3. [DaoliNameCoin.pdf](DaoliNameCoin.pdf)
 
-4. [IBC_IoT_eng.pdf](IBC_IoT_eng.pdf)
+4. [IBC_IoT.pdf](IBC_IoT.pdf)
 
-5. [DaoliName.pdf](DaoliName.pdf)
+5. [IBC_IoT_eng.pdf](IBC_IoT_eng.pdf)
+
+6. [DaoliName.pdf](DaoliName.pdf)
