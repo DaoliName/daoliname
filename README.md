@@ -57,3 +57,5 @@ Thus, let conventional crypto key management from the conventional PKI CAs conti
 5. [IBC_IoT_eng.pdf](IBC_IoT_eng.pdf)
 
 6. [DaoliName.pdf](DaoliName.pdf)
+
+7. [DTB_Handcuff_PoW.pdf](DTB_Handcuff_PoW.pdf)
