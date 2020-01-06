@@ -58,4 +58,4 @@ Thus, let conventional crypto key management from the conventional PKI CAs conti
 
 6. [DaoliName.pdf](DaoliName.pdf)
 
-7. [DTB_Handcuff_PoW.pdf](DTB_Handcuff_PoW.pdf)
+7. [DTB_Handcuff.pdf](DTB_Handcuff.pdf)
